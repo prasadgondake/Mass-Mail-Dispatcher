@@ -1,6 +1,9 @@
-# Mass-Mail-Dispatcher
-This project was created by me during the internship with Exposys Data Lab. The languages used in this project are HTML, CSS and Javascript.
+# Developed and designed a website Mass-Mail Dispatcher.
+This website allows users to upload a CSV file containing email addresses, validates each address, displays the valid and invalid counts and sends an email using the specified SMTP server when the sendEmail() function is called. Technology: HTML, CSS & JAVASCRIPT.
 
-![project2](https://user-images.githubusercontent.com/68009826/205437401-747945c9-a78b-4934-9bab-27ab6c7bd397.png)
+![image](https://github.com/prasadgondake/Mass-Mail-Dispatcher/assets/111221220/2b026a3b-7a18-4730-9649-6fe4581b0607)
+
+Website Link : https://maildispatcher.netlify.app/
+
 
 
